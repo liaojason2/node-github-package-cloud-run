@@ -1,6 +1,6 @@
 # GitHub Package Deploy to Google Cloud Run
 
-A Github Action template for who need to deploy to Google Cloud Run from GitHub package
+A Github Action template for who need to deploy to Google Cloud Run from GitHub package.
 
 ## Quickstart
 
